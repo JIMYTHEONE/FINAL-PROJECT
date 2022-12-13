@@ -1,0 +1,188 @@
+peak_id,peak_name,host_contries,height_m,height_ft,location,region,climb_status,is_open,is_unlisted,is_trekking,trek_year,first_asc_yr,first_asc_season,first_asc_date,countries,first_summiters,Lat,Long
+AGLE,Agole East,Nepal only,6675,21900,Rolwaling,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.51,86.33
+AMAD,Ama Dablam,Nepal only,6814,22356,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1961,Spring,Mar 13,"New Zealand, USA, UK","Mike Gill, Wally Romanes, Barry Bishop, Michael Ward",27.5136,86.5136
+AMPH,Amphu I,Nepal only,6740,22113,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2013,Autumn,Oct 09,S Korea,"Ahn Il-Evn, An Chi-Young, Kim Young-Mi, Oh Young-Hoon",27.5136,86.57
+ANID,Anidesh Chuli,Nepal only,6808,22336,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.42,88.0412
+ANN1,Annapurna I,Nepal only,8091,26545,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1950,Spring,Jun 03,France,"Maurice Herzog, Louis Lachenal",28.3524,83.4912
+ANN2,Annapurna II,Nepal only,7937,26040,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1960,Spring,May 17,"UK, Nepal","Richard Grant, Chris Bonington, Ang Nyima Sherpa",28.3148,84.0712
+ANN3,Annapurna III,Nepal only,7555,24787,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1961,Spring,May 06,India,"Mohan S. Kohli, Sonam Gyatso, Sonam Girmi",28.3448,83.5924
+ANN4,Annapurna IV,Nepal only,7525,24688,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1955,Spring,May 30,W Germany,"Heinz Steinmetz, Harald Biller, Juergen Wellenkamp",28.3148,84.0448
+ANNE,Annapurna I East,Nepal only,8026,26332,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1974,Spring,Apr 29,Spain,"Jose Manuel Anglada Nieto, Jorge Pons Sangines, Emilio Givis Abad",28.3524,83.4912
+ANNM,Annapurna I Middle,Nepal only,8051,26414,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1980,Autumn,Oct 03,W Germany,"Udo Boening, Ludwig Greissl, Heinz Oberrauch",28.3524,83.4948
+ANNS,Annapurna South,Nepal only,7219,23684,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1964,Autumn,Oct 15,"Japan, Nepal","Shiochiro Uyeo, Mingma Tsering Sherpa",28.3036,83.48
+APIM,Api Main,Nepal only,7132,23399,Api/Byas Risi/Guras,Far West-Kanjiroba,Climbed,1,0,0,0,1960,Spring,May 10,"Japan, Nepal","Katsutoshi Hirabayashi, Gyaltsen Norbu Sherpa",30.0,80.5548
+APIW,Api West,Nepal only,7076,23215,Api/Byas Risi/Guras,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,30.0,80.5548
+BARU,Baruntse,Nepal only,7152,23465,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1954,Spring,May 29,New Zealand,"Colin Todd, Geoff Harrow",27.5212,86.5848
+BAUD,Baudha,Nepal only,6672,21890,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1970,Spring,May 02,Japan,"Yoshiyuki Kobayashi, Kiyoyasu Shibata",28.2212,84.4012
+BOBA,Bobaye,Nepal only,6808,22336,Api/Byas Risi/Guras,Far West-Kanjiroba,Climbed,1,0,0,0,1996,Autumn,Nov 02,Slovenia,Tomaz Humar,29.57,81.0
+BTAK,Bhairab Takura,Nepal & China,6799,22306,Jugal,Langtang-Jugal,Climbed,1,0,0,0,1960,Spring,May 07,"Japan, Nepal","Kunitoshi Ishihara, Yukihito Kato, Pasang Phutar Sherpa (I)",28.1124,85.48
+CHAB,Chabuk,Nepal & China,6792,22283,Janak/Ohmi Kangri,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5248,87.5924
+CHAG,Chago,Nepal & China,6893,22615,Makalu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1954,Spring,May 29,"New Zealand, Nepal","Michael Ball, Urkien Sherpa",27.5512,87.03
+CHAK,Chako,Nepal only,6704,21995,Damodar,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2007,Summer,Jul 24,"Japan, Nepal","Kazhisa Kamisaka, Akio Omura, Hari Bahadur Chaulagai, Ang Phuri Lama",28.5248,84.1648
+CHAM,Chamlang,Nepal only,7321,24019,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1962,Spring,May 31,"Japan, Nepal","So Anma, Pasang Phutar Sherpa (I)",27.4612,86.5848
+CHEO,Cheo Himal,Nepal & China,6820,22375,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1991,Autumn,Oct 13,"Japan, Nepal","Dambar Bahadur Gurung, Shigeki Imoto, Ful Bahadur Rai, Pasang Tshering Sherpa",28.4536,84.27
+CHIV,Chhiv Himal,Nepal only,6650,21818,Damodar,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2004,Autumn,Sep 18,Japan,"Takeshi Wada, Mitsuhiro Koseki, Yubo Shibata, Takeo Yoshinaga",28.0,84.0
+CHMN,Chamar North,Nepal only,7165,23507,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1953,Spring,Jun 05,"New Zealand, Nepal","Maurice Bishop, Nyamgel Sherpa",28.33,84.5624
+CHMR,Chamar,Nepal only,7161,23494,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.3224,84.5624
+CHOB,Chobuje,Nepal only,6686,21936,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1972,Spring,Apr 24,W Germany,"Wolfgang Weinzierl, Peter Vogler, Gustav Harder, Klaus Harder",27.5248,86.2924
+CHOP,Cho Polu,Nepal only,6700,21982,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1984,Autumn,Nov,Spain,Nil Bohigas Martorell,27.5436,86.5848
+CHOY,Cho Oyu,Nepal & China,8188,26864,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1954,Autumn,Oct 19,"Austria, Nepal","Herbert Tichy, Sepp Jeochler, Pasang Dawa Lama",28.0524,86.3936
+CHRE,Churen Himal East,Nepal only,7371,24183,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1970,Spring,Apr 29,"S Korea, Nepal","Kim Ho-Sup, Rinsing Ongyal Sherpa",28.4424,83.1312
+CHRW,Churen Himal West,Nepal only,7371,24183,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1970,Autumn,Oct 28,"Japan, Nepal","Kozo Hasegawa, Ang Norbu Sherpa",28.4348,83.1236
+CHUM,Chumbu,Nepal only,6859,22503,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.0036,86.4648
+CHUR,Churen Himal Central,Nepal only,7385,24229,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1970,Autumn,Oct 24,Japan,"Masayoshi Fukui, Kozo Hasegawa",28.4348,83.1236
+CTSE,Changtse,China only,7583,24879,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,0,1,0,0,1982,Spring,Oct 14,W Germany,Udo Zehetleitner,28.0112,86.5436
+DHA1,Dhaulagiri I,Nepal only,8167,26795,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1960,Spring,May 13,"Switzerland, Austria, W Germany, Nepal","Peter Diener, Kurt Diemberger, Albin Schelbert, Ernst Forrer, Nima Dorje Sherpa, Nawang Dorje Sherpa",28.4124,83.2924
+DHA2,Dhaulagiri II,Nepal only,7751,25430,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1971,Spring,May 18,"Austria, USA, Nepal","Adolf Huber, Ronald Fear, Adi Weissensteiner, Jangbu Sherpa",28.4536,83.2248
+DHA3,Dhaulagiri III,Nepal only,7715,25312,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1973,Autumn,Oct 20,W Germany,"Klaus Schreckenbach, Gerhard Haberl, Hans Saler",28.45,83.2212
+DHA4,Dhaulagiri IV,Nepal only,7661,25135,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1975,Spring,May 09,Japan,"Shiro Kawazu, Etsuro Yasuda",28.4348,83.1836
+DHA5,Dhaulagiri V,Nepal only,7618,24993,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1975,Spring,May 01,"Japan, Nepal","Masaaki Morioka, Pemba Tsering Sherpa",28.4348,83.2136
+DHA6,Dhaulagiri VI,Nepal only,7268,23845,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1970,Spring,Apr 17,Japan,"Shiro Kawazu, Shoichi Kimura, Hisazumi Nakamura, Seijiro Yamamura",28.42,83.1612
+DOMK,Dome Kang,Nepal & India,7264,23832,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,2009,Spring,Apr 28,"Spain, Nepal","Emilio Lagunilla, Carlos Soria, Chhang Dawa Sherpa, Karma Gyalzen Sherpa, Halung Dorchi Sherpa",27.5212,88.09
+DOMO,Domo,Nepal & India,7447,24432,Jongsang,Kangchenjunga-Janak,Climbed,0,1,0,0,1930,Spring,Jun 08,"Germany, Nepal","Guenter Dyhrenfurth, Lewa Sherpa",27.5248,88.0824
+DORJ,Dorje Lhakpa,Nepal only,6966,22854,Jugal,Langtang-Jugal,Climbed,1,0,0,0,1981,Autumn,Oct 18,"Japan, Nepal","Kunio Kataoka, Makoto Anbe, Kazunari Murakami, Eiichi Shingyoji, Pemba Tsering Sherpa",28.1012,85.4612
+DRAN,Drangnag Ri,Nepal only,6757,22169,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1995,Spring,Apr 30,"Norway, UK, Nepal","Chris Bonington, Ralph Hoibakk, Bjorn Myrer-Lund, Lhakpa Gyalu Sherpa, Pema Dorje Sherpa",27.57,86.2248
+DROM,Drohmo,Nepal only,6881,22575,Jongsang,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Main summit unclimbed,27.4912,88.06
+EVER,Everest,Nepal & China,8850,29035,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1953,Spring,May 29,"New Zealand, India","Edmund Hillary, Tenzing Norgay Sherpa",27.5848,86.5512
+FANG,Fang,Nepal only,7647,25089,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1980,Spring,May 17,"Austria, Nepal","Sepp Mayerl, Hermann Neumair, Ang Chepal Sherpa",28.3412,83.48
+FIRN,Firnkopf,Nepal only,6730,22080,Saipal,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.54,81.27
+FIRW,Firnkopf West,Nepal only,6745,22129,Saipal,Far West-Kanjiroba,Climbed,1,0,0,0,1987,Autumn,Oct 25,"Austria, W Germany, Nepal","Franz Kroell, Fritz Mross, Ang Chopal Sherpa",29.54,81.27
+GAMA,Gama Peak,Nepal only,7187,23579,Dhaulagiri,Dhaulagiri-Mukut,Climbed,0,1,0,0,1970,Autumn,Oct 25,Japan,"Goro Nabeyama, Katsuhiro Nakashima",28.4312,83.1612
+GAN1,Ganesh I,Nepal & China,7422,24350,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1955,Autumn,Oct 24,"Switzerland, France","Raymond Lambert, Eric Gauchat, Claude Kogan",28.3036,83.48
+GAN2,Ganesh II,Nepal only,7118,23353,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1981,Autumn,Oct 16,"W Germany, Nepal","Hermann Warth, Ang Chepal Sherpa, Nga Temba Sherpa, Nima Tenzing Sherpa",28.2024,85.0636
+GAN3,Ganesh III,Nepal & China,7043,23107,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1979,Autumn,Oct 19,"Japan, Nepal","Hideo Ogura, Pemba Tshering Sherpa, Dawa Norbu Sherpa",28.2212,85.03
+GAN4,Ganesh IV,Nepal only,7104,23307,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1978,Autumn,Oct 20,"Japan, Nepal","T Tomita, H Yoshio, K Aoyagi, M Hashimoto, Y Hashimoto, Y Okuma, T Shimoji, T Suzuki, I Yasuda, Yogendra Thapa, Kamal Bhandari, Mingma Tenzing Sherpa, Sonan Wolang Sherpa",28.2024,85.0412
+GAN5,Ganesh V,Nepal & China,6770,22211,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,1980,Spring,Apr 21,"Japan, Nepal","Tatsumi Sasaki, Akihiko Komori, Lhakpa Dorje Sherpa, Nima Tenzing Sherpa, Nima Nuru Sherpa",28.2024,85.0936
+GAN6,Ganesh VI,Nepal only,6908,22664,Ganesh/Shringi,Manaslu-Ganesh,Climbed,1,0,0,0,2000,Spring,May 23,Japan,"Osamu Tanabe, Yasuhiro Hanatani",28.2924,85.09
+GANG,Gangapurna,Nepal only,7455,24459,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1965,Spring,May 06,"W Germany, Nepal","Gunter Hauser, Ludwig Greissl, Hermann Kollensperger, Erich Reismueller, Ang Temba Sherpa, Phu Dorje Sherpa",28.3748,83.57
+GANW,Gangapurna West,Nepal only,7140,23425,Annapurna,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.3748,83.57
+GAUR,Gaurishankar,Nepal & China,7135,23409,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1979,Spring,May 08,"US, Nepal","John Roskelley, Dorje Sherpa",27.5736,86.1948
+GAUS,Gaurishankar South,Nepal only,7010,22999,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1979,Autumn,Nov 09,UK,"Peter Boardman, Pemba Lama, Timothy Leach, Guy Neithardt",27.57,86.1948
+GIME,Gimmigela Chuli East,Nepal & India,7007,22989,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,0,1,0,0,1993,Autumn,Oct 09,"Japan, Nepal","Hideo Koike, Masanori Sato, Taro Tanigawa, Chuldin Sherpa, Pasang Nima Sherpa, Phurba Sherpa",27.4424,88.1048
+GIMM,Gimmigela Chuli,Nepal & India,7350,24114,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1994,Autumn,Oct 29,"Japan, Nepal","Shigeru Yokokuwa, Dawa Wangchuk Sherpa, Pasang Gyalzen Sherpa, Pasang Tenzing Sherpa",27.4424,88.0936
+GLAC,Glacier Dome,Nepal only,7168,23517,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1964,Spring,Oct 16,"Japan, Nepal","Mitsuhiro Nishimura, Dorje Sherpa",28.36,83.5324
+GURJ,Gurja Himal,Nepal only,7193,23599,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1969,Autumn,Nov 01,"Japan, Nepal","Tomokuni Saeki, Lhakpa Tenzing Sherpa",28.4012,83.1612
+GURK,Gurkarpo Ri,Nepal & China,6889,22602,Jugal,Langtang-Jugal,Climbed,1,0,0,0,2007,Autumn,Nov 01,France,"Paul Grobel, Pierre-Olivier Dupuy, Marc Kia, Jean Francois Males",28.1236,85.4612
+GYAC,Gyachung Kang,Nepal & China,7861,25791,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1964,Spring,Apr 10,"Japan, Nepal","Yukihiko Kato, Kiyoto Sakaizawa, Pasang Phutar Sherpa (I)",28.0524,86.4424
+GYAJ,Gyajikang,Nepal only,7074,23209,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1994,Autumn,Oct 07,"Japan, Nepal","Toshisada Hasegawa, Yousuke Kokubo, Osamu Tanabe, Ram Kaji Sivakoti, Pasang Tshering Sherpa, Dambar Bahadur Gurung",28.4124,84.2248
+HCHI,Hungchhi,Nepal & China,7029,23061,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2003,Spring,Apr 19,"Japan, Nepal","Katsuo Fukuhara, Tadashi Morita, Kanji Shimizu, Durga Rai, Hit Bahadur Tamang, Ram Kaji Tamang, Tul Bahadur Tamang",28.0148,86.45
+HERZ,Herzog Peak,Nepal only,7555,24787,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,0,All,Unknown,Unknown,Climbed?,28.3636,83.5212
+HIME,Himalchuli East,Nepal only,7893,25896,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1960,Spring,May 24,Japan,"Masahiro Harada, Hisashi Tanabe",28.2548,84.3824
+HIMJ,Himjung,Nepal only,7092,23268,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,20,2012,Autumn,Oct 12,S Korea,"Kim Chang-Ho, An Chi-Young",28.4612,84.2436
+HIML,Himlung Himal,Nepal only,7126,23379,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1992,Spring,Oct 03,"Japan, Nepal","Osamu Hanai, Akio Koizumi, Nima Sherpa",28.4612,84.2512
+HIMN,Himalchuli North,Nepal only,7331,24052,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1985,Autumn,Oct 27,"S Korea, Nepal","Lee Jae-Hong, Ang Pasang Sherpa, Jangbu Sherpa, Lhakpa Norbu Sherpa, Pasang Dawa Sherpa",28.2624,84.36
+HIMW,Himalchuli West,Nepal only,7540,24738,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1978,Spring,May 07,Japan,"Yoshio Ogata, Kazuhiro Sugeno",28.2548,84.3636
+HMLE,Himlung East,Nepal & China,6932,22743,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2017,Spring,May 08,"France, Nepal","Paulo Grobel, Isabelle Guillaume, Rajan Lama Bhote, Jangbu Sherpa",28.4612,84.2512
+HNKU,Hongku Chuli,Nepal only,6833,22418,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4836,87.0036
+HONK,Hongku,Nepal only,6764,22192,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2015,Autumn,Oct 09,France,"Alberto Inurrategi Iriarte, Juan Vallejo Llanos, Miguel Zabalza Azkona",27.4836,87.0036
+HUGO,Hulang Go,Nepal & India,6687,21939,Peri,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.5212,84.2024
+JANE,Jannu East,Nepal only,7460,24475,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unknown,27.4048,88.0224
+JANK,Janak Chuli,Nepal & China,7041,23100,Janak/Ohmi Kangri,Kangchenjunga-Janak,Climbed,1,0,0,0,2006,Spring,May 06,Slovenia,"Andrej Stremfelj, Rok Zalokar",27.5212,88.0524
+JANU,Jannu,Nepal only,7711,25299,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1962,Spring,Apr 27,"France, Nepal","Rene Desmaison, Paul Keller, Robert Paragot, Gyalzen Mitchung Sherpa",27.4048,88.0224
+JETH,Jethi Bahurani,Nepal only,6850,22474,Api/Byas Risi/Guras,Far West-Kanjiroba,Climbed,1,0,0,0,1978,Spring,Apr 27,Japan,"Kazuo Mitsui, Nobuhito Morota, Hideki Yoshida",29.5248,81.0224
+JOBO,Jobo Rinjang,Nepal only,6778,22238,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2009,Spring,Apr 22,USA,"Joe Puryear, David Gottlieb",28.3336,86.3336
+JONG,Jongsang,"Nepal, China & India",7462,24482,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1930,Spring,Jun 03,"Germany, Austria","Hermann Hoerlin, Erwin Schneider",27.5136,88.0824
+JUNC,Junction Peak,Nepal only,7133,23402,Dhaulagiri,Dhaulagiri-Mukut,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,35.54,76.33
+KABN,Kabru North,Nepal & India,7338,24075,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,0,1,0,0,1935,Autumn,Nov 18,UK,C. R. (Reggie) Cooke,27.3748,88.0636
+KABR,Kabru Main,Nepal & India,7412,24318,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1994,Spring,May 12,India,"Dan Singh, 2 unknown members",27.3748,88.0636
+KABS,Kabru South,Nepal & India,7318,24009,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1994,Spring,May 12,India,"S. P. Malik, N. Arshad, 11 members",27.3636,88.0636
+KALI,Kali Himal,Nepal only,6985,22917,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1983,Spring,Apr 05,Netherlands,"Joost Ubblink, Edwin Van Nieuwkerk",27.5212,86.5812
+KANB,Kangbachen,Nepal only,7902,25925,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1974,Spring,May 26,Poland,"Wojciech Branski, Wieslaw Klaput, Marek Malatynski, Kazimierz Olech, Zbigniew Rubinowski",27.4236,88.0636
+KANC,Kangchenjunga Central,Nepal & India,8473,27799,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1978,Spring,May 22,Poland,"Wojciech Branski, Zygmunt Heinrich, Kazimierz Olech",27.42,88.09
+KANG,Kangchenjunga,Nepal & India,8586,28169,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1955,Spring,May 25,UK,"George Band, Joe Brown",27.42,88.09
+KANN,Kangchenjunga North,Nepal & India,7938,26043,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.42,88.09
+KANS,Kangchenjunga South,Nepal & India,8476,27808,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1978,Spring,May 19,Poland,"Eugeniusz Chrobak, Wojciech Wroz",27.4124,88.09
+KANT,Kanti Himal,Nepal & China,6850,22474,Kanti/Palchung,Far West-Kanjiroba,Climbed,1,0,0,0,2002,Autumn,Sep 24,"Japan, Nepal","Toyoji Wada, Katsumi Nishida, Atsushi Senda, Hyosuke Tsuboi, Yusuke Ueda, Ang Mingm Sherpa, Karchen Dawa Sherpa, Nga Dorje Sherpa",29.51,82.42
+KBNE,Kangbachen East,Nepal only,7780,25525,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4236,88.0636
+KGRI,Khangri Shar,Nepal only,6792,22283,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.0036,86.48
+KGUR,Kang Guru,Nepal only,6981,22904,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1955,Summer,Jul 02,W Germany,"Heinz Steinmetz, Fritz Lobbichler, Juergen Wellenkamp",28.39,84.18
+KHAM,Khamjung,Nepal only,6759,22175,Damodar,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1982,All,Unknown,Japan,Climbed?,28.5248,84.0712
+KHAT,Khatang,Nepal only,6790,22277,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1982,Autumn,Oct 30,"Japan, Nepal","Tatsumi Kawamura, Yoshimi Kitayama, Dorje Sherpa",27.45,86.3524
+KIMS,Kimshung,Nepal only,6781,22247,Langtang,Langtang-Jugal,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unknown,28.1612,85.33
+KIRA,Kirat Chuli,Nepal & India,7362,24154,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1939,Summer,May 29,"Switzerland, Germany","Ernst Grob, Herbert Paidar, Ludwig Schmaderer",27.4648,88.1124
+KJRN,Kanjiroba North,Nepal only,6858,22500,Kanjiroba,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.2212,82.3824
+KJRS,Kanjiroba South,Nepal only,6883,22582,Kanjiroba,Far West-Kanjiroba,Climbed,1,0,0,0,1970,Autumn,Nov 07,Japan,"Hiroshi Okuda, Ichiryo Sato, Munehiro Sawada",29.2212,82.3824
+KNAG,Kang Nagchugo,Nepal & China,6737,22103,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2008,Autumn,Oct 17,USA,"Joseph Puryear, David Gottlieb",27.54,86.2624
+KTEG,Kangtega,Nepal only,6783,22254,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1963,Spring,Jun 05,"New Zealand, USA","David Dornan, Tom Frost, Michael Gill, Jim Wilson",27.4724,86.4836
+KYAS,Kyashar,Nepal only,6770,22211,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2003,Autumn,Oct 18,"UK, Austria, Swiss","Bruce Normand, Sam Broderick, Andreas Frank",27.45,86.4912
+LAMJ,Lamjung Himal,Nepal only,6983,22910,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1974,Spring,Apr 25,UK,"Derrick Chamberlain, Phillip Neame",28.2848,84.1124
+LAMP,Lampo,Nepal & China,6648,21811,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,28.2924,85.09
+LANG,Langtang Lirung,Nepal only,7227,23711,Langtang,Langtang-Jugal,Climbed,1,0,0,0,1978,Autumn,Oct 24,"Japan, Nepal","Seishi Wada, Pemba Tsering Sherpa",28.15,85.3036
+LANR,Langtang Ri,Nepal & China,7205,23638,Langtang,Langtang-Jugal,Climbed,1,0,0,0,1981,Autumn,Oct 10,"Japan, Nepal","Soichi Nasu, Makihiro Wakao, Noboru Yamada, Ang Rinji Sherpa",28.2248,85.4048
+LAS2,Lashar II,Nepal & China,6803,22320,Janak/Ohmi Kangri,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5248,88.0336
+LASH,Lashar I,Nepal & China,6842,22448,Janak/Ohmi Kangri,Kangchenjunga-Janak,Climbed,1,0,0,0,2005,Autumn,Oct 12,Slovenia,"Andrej Stremfelj, Miha Habjan",27.5324,88.03
+LCHA,Lachama Chuli,Nepal & China,6721,22051,Nalakankar/Chandi/Changla,Far West-Kanjiroba,Climbed,1,0,0,0,2007,Autumn,Sep 14,Japan,"Atsushi Senda, Ryouta Fujii, Keizou Ishikawa, Hiroshi Kobayashi, Kouhei Kotani, Naoki Shimozato, Yuhki Tani",30.0748,82.1124
+LEOE,Leonpo Gang East,Nepal & China,6733,22090,Jugal,Langtang-Jugal,Climbed,1,0,0,0,1955,Spring,May 11,"UK, Nepal","Monica Jackson, Elizabeth Stark, Mingma Gyalgen Sherpa, Ang Temba Sherpa",28.1124,85.48
+LEON,Leonpo Gang,Nepal & China,6979,22897,Jugal,Langtang-Jugal,Climbed,1,0,0,0,1962,Spring,May 03,Japan,"Tadashi Morita, Kazunari Yasuhisa",28.1124,85.48
+LHOM,Lhotse Middle,Nepal & China,8410,27592,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2001,Spring,May 23,Russia,"Sergei Timofeev, Alexei Bolotov, Piotr Kouznetsov, Evgeni Vinogradski",27.5636,86.5548
+LHOT,Lhotse,Nepal & China,8516,27940,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1956,Spring,May 18,Switzerland,"Fritz Luchsinger, Ernst Reiss",27.5736,86.5548
+LIK1,Linkhu Chuli Shar,Nepal only,6719,22044,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2013,Autumn,Nov 13,Germany,Ines Papert,27.48,86.3224
+LIK2,Linkhu Chuli Nup,Nepal only,6659,21847,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1960,Autumn,Oct 21,"France, Nepal","Alain Barbezat, Cecile Barbezat, Nawang Dorje Sherpa",27.48,86.3112
+LING,Lingtren,Nepal & China,6713,22024,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1935,Summer,Aug,UK,"Eric Shipton, Dan Bryant",28.0112,86.51
+LNGK,Langchung Khang,Nepal & China,6786,22264,Jongsang,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.51,88.1048
+LNPO,Langpo,Nepal & India,6965,22851,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1909,Autumn,Sep 14,UK,A. M. Kellas,27.51,88.1124
+LSHR,Lhotse Shar,Nepal & China,8382,27500,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1970,Spring,May 12,Austria,"Josef Mayerl, Rolf Walter",27.57,86.5624
+LUGU,Lugula,Nepal & China,6899,22635,Damodar,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2010,Autumn,Nov 02,France,Renald Guillaune,28.5248,84.1348
+LUN2,Lunag II,Nepal only,6812,22349,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,0,1,0,0,2010,Autumn,Oct 26,France,"Mathieu Detrie, Max Belleville, Mathiew Maynadier, Sebastien Ratel",28.03,86.33
+LUNR,Lunag Ri,Nepal & China,6895,22621,Rolwaling,Khumbu-Rolwaling-Makalu,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unknown,28.03,86.3336
+MACH,Machhapuchhare,Nepal only,6993,22943,Annapurna,Annapurna-Damodar-Peri,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,28.2924,83.5624
+MAK2,Makalu II,Nepal & China,7678,25190,Makalu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1954,Autumn,Oct 22,"UK, Nepal","Jean Franco, Lionel Terray, Gyaltsen Norbu Sherpa, Pa Norbu Sherpa",27.5436,87.0448
+MAKA,Makalu,Nepal & China,8485,27838,Makalu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1955,Spring,May 15,France,"Jean Couzy, Lionel Terray",27.5248,87.0448
+MANA,Manaslu,Nepal only,8163,26781,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1956,Spring,May 09,"Japan, Nepal","Toshio Imanishi, Gyaltsen Norbu Sherpa",28.3224,84.3336
+MANN,Manaslu North,Nepal only,6994,22946,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1964,Autumn,Oct 25,"Netherlands, Austria, Nepal","Alfons Driessen, Jan De Lint, Hubert Schriebl, Ila Tshering Sherpa, Nima Tenzing Sherpa",28.3712,84.3336
+NAG1,Nangpai Gosum I,Nepal & China,7321,24019,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2017,Autumn,Oct 03,Germany,Jost Kobusch,28.0412,86.3748
+NAG2,Nangpai Gosum II,Nepal & China,7287,23907,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.33,84.5624
+NAMP,Nampa,Nepal only,6729,22077,Api/Byas Risi/Guras,Far West-Kanjiroba,Climbed,1,0,0,0,1972,Spring,May 05,Japan,"Fukutoshi Kimura, Susumu Takahashi",30.0,81.0
+NEMJ,Nemjung,Nepal only,7140,23425,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1983,Spring,Oct 27,"Japan, Nepal","Makito Minami, Wataru Saito, Ken Takahashi, Kirki Lama",28.4536,84.2512
+NEPA,Nepal Peak,Nepal & India,7177,23547,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1930,Spring,May 24,Austria,Erwin Schneider,27.4612,88.1012
+NGAP,Nepal Gap Peak,Nepal & India,7007,22989,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.4612,88.1012
+NGO2,Ngojumba Kang II,Nepal & China,7743,25404,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1965,Spring,Apr 24,"Japan, Nepal","Naomi Uemura, Pemba Tenzing Sherpa",28.06,86.42
+NGO3,Ngojumba Kang III,Nepal & China,7681,25200,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.06,86.4236
+NGOJ,Ngojumba Kang I,Nepal & China,7916,25971,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1982,Autumn,Nov 02,"S Korea, Nepal","Kim Young-Han, Ang Tshering Sherpa, Dorje Sherpa",28.06,86.4048
+NILC,Nilgiri Central,Nepal only,6940,22769,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1979,Spring,Apr 30,Japan,"Kohichi Sakata, Yasuo Tsuda",28.4012,83.4348
+NILN,Nilgiri North,Nepal only,7061,23166,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1962,Autumn,Oct 19,"Netherlands, France, Nepal","Lionel Terray, H. G. Van Lookern Campagne, P. Van Lookern Campagne, P. F. J. Van Lookern Campagne, Wangdi Sherpa",28.4048,83.4424
+NILS,Nilgiri South,Nepal only,6839,22438,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1978,Autumn,Oct 10,Japan,"Kazuo Mitsui, Taichi Fujimatsu, Yoshiaki Kato, Nobuhito Morota, Seiji Tanaka, Hideki Yoshida",28.39,83.4348
+NUMB,Numbur,Nepal only,6958,22828,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1963,Spring,May 29,"Japan, Nepal","Hiroshi Matsuo, Mingma Tsering Sherpa",27.45,86.3412
+NUPE,Nuptse East I,Nepal only,7795,25574,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2003,Autumn,Nov 02,Russia,"Valeri Babanov, Yuri Kochelenko",27.5736,86.5324
+NUPT,Nuptse,Nepal only,7864,25801,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1961,Spring,May 16,"UK, Nepal","Dennis Davis, Tashi Sherpa",27.5736,86.5248
+OHMI,Ohmi Kangri,Nepal & China,6839,22438,Janak/Ohmi Kangri,Kangchenjunga-Janak,Climbed,1,0,0,0,1985,Spring,Apr 14,Switzerland,"Andre Rieder, Alain Vaucher",27.5324,87.5736
+PANB,Panbari,Nepal only,6905,22654,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2006,Autumn,Sep 29,Japan,"Yoshimi Kato, Gakuto Komiya, Sayaka Koyama, Kenro Nakajima, Yosuke Urabe",28.42,84.3224
+PAND,Pandra,Nepal only,6670,21883,Janak/Ohmi Kangri,Kangchenjunga-Janak,Climbed,1,0,0,0,2002,Autumn,Oct 16,Denmark,"Allan Christensen, Bo Belvedere Christensen, Jan Mathorne",27.5212,87.5924
+PANT,Panalotapa,Nepal only,6687,21939,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1955,Spring,May,UK,"Peter Boultbee, Dennis Davis",27.48,86.3412
+PASA,Pasang Lhamu Chuli,Nepal & China,7350,24114,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1986,Autumn,Oct 12,Japan,"Katsushi Emura, Yukitoshi Endo, Katsuo Matsuki, Yoshihiro Shikoda",28.0448,86.36
+PEMK,Pemthang Karpo Ri,Nepal & China,6865,22523,Jugal,Langtang-Jugal,Climbed,1,0,0,0,1955,Spring,May 14,"Switzerland, Nepal","Raymond Lambert, Ang Norbu Sherpa, Kami Tshering Sherpa, Pasang Sherpa, Pemba Gyaltzen Sherpa",28.1348,85.4424
+PETH,Pethangtse,Nepal & China,6739,22110,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1954,Spring,May 26,"New Zealand, Nepal","Michael Ball, Norman Hardie, Brian Wilkins, Urkien Sherpa",27.57,87.0036
+PHOL,Phole,Nepal only,6645,21801,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4048,88.0036
+PHUG,Phu Kang Go,Nepal & China,6767,22201,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,2011,Autumn,Oct 27,"France, Belgium","Paulo Grobel, Benoit Van Lerberghe",28.4348,84.2924
+PHUK,Phu Kang,Nepal & China,6694,21962,Peri,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.4724,84.2624
+PK04,Peak 4,Nepal only,6736,22100,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.54,81.27
+PK29,Peak 29,Nepal only,7871,25823,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,1979,Spring,May 08,Poland,"Ryszard Gajewski, Maciej Pawlikowski",28.3,84.3336
+PK41,Peak 41,Nepal only,6648,21811,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,2002,2002,Autumn,Oct 16,Slovenia,"Matic Jost, Urban Golob, Uros Samec",27.4612,86.5436
+PLNG,Palung,China only,7012,23005,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,0,1,0,0,1952,Spring,May 13,New Zealand,"Edmund Hillary, George Lowe",28.0712,86.3824
+PUMO,Pumori,Nepal & China,7138,23419,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1962,Spring,May 17,"W Germany, Switzerland","Gerhard Lenser, Ernst Farrer, Ueli Huerlemann, Hans Ruetzel",28.0036,86.4912
+PUTH,Putha Hiunchuli,Nepal only,7246,23773,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1954,Autumn,Nov 11,"UK, Nepal","J. O. M. Roberts, Ang Nyima Sherpa",28.4424,83.0824
+PYRM,Pyramid Peak,Nepal & India,7140,23425,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1993,Spring,Apr 24,"Japan, India","Yoshio Ogata, Jot Singh Bhandari, Hiroshi Iwazaki, Phurba Lepcha, Sunder Singh Martolia, Lobsang Sherpa, Nobuhiro Shingo",27.4912,88.1012
+RAMC,Ramtang Chang,Nepal only,6802,22316,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1974,Autumn,Oct 05,Yugoslavia,"Janez Gradisar, Bojan Pollak, Michael Smolej",27.4536,88.0448
+RANI,Rani Peak,Nepal only,6693,21959,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,0,1,0,0,1970,Spring,May 05,"Netherlands, Nepal","Herman Tollenaar, Ang Phurba Sherpa, Mingma Tsering Sherpa, Nima Dorje Sherpa",28.2736,84.4124
+RATC,Ratna Chuli,Nepal & China,7035,23081,Peri,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1996,Autumn,Oct 14,"Japan, Nepal","Osamu Tanabe, Santa Bahadur Ale, Katsuhiko Sawada, Durge Bahadur Tamang, Tul Bahadur Tamang",28.5136,84.2136
+RATH,Rathong,Nepal & India,6682,21923,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1964,Autumn,Oct 29,India,"H. P. S. Ahluwalia, Ang Kami Sherpa, Dorje Latoo Sherpa, Nawang Gombu Sherpa",27.3524,88.0524
+RIPI,Ripimo Shar,Nepal & China,6647,21808,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1952,Spring,May 29,UK,"Tom Bourdillon, Ray Colledge",27.5812,86.3112
+ROCN,Roc Noir,Nepal only,7485,24557,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1969,Spring,May 09,W Germany,"Reinhold Obster, Pit Schubert, Karl Winkler",28.3636,83.5212
+SAIE,Saipal East Humla,Nepal only,6925,22720,Saipal,Far West-Kanjiroba,Climbed,1,0,0,0,1990,Autumn,Oct 26,"Switzerland, Nepal","Jacques Montaz, Tendi Sherpa",29.5324,81.3
+SAIP,Saipal,Nepal only,7030,23064,Saipal,Far West-Kanjiroba,Climbed,1,0,0,0,1963,Autumn,Oct 21,"Japan, Nepal","Katsuotoshi Hirabayashi, Pasang Phutar Sherpa (I)",29.5248,81.2924
+SHA2,Shartse II,Nepal & China,7457,24465,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,1974,Spring,May 23,"Austria, W Germany","Kurt Diemburger, Hermann Warth",27.57,86.5736
+SHAL,Shalbachum,Nepal & China,6707,22005,Langtang,Langtang-Jugal,Climbed,1,0,0,0,1959,Autumn,Oct 25,"Japan, Nepal","Sadao Hojo, Tetsuro Terahata, Dawa Thondup Sherpa, Pasang Temba Sherpa",28.1648,85.3824
+SHAR,Shartse,Nepal & China,7591,24905,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5636,86.5848
+SOBI,Sobithongie,Nepal only,6652,21824,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4048,88.0112
+SPHN,Sphinx,Nepal & India,6825,22392,Jongsang,Kangchenjunga-Janak,Climbed,1,0,0,0,1936,Spring,Jun,UK,"J. K. Cooke, Frederick S. Chapman, John B. Harrison",27.4912,88.1124
+TENR,Tengi Ragi Tau,Nepal only,6938,22762,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2002,Winter,Dec 04,"Japan, Nepal","Koichi Ezaki, Ruchia Takahashi, Pasang Tamang, Tul Bahadur Tamang",27.51,86.33
+THRK,Tharke Kang,Nepal & China,6710,22014,Khumbu,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2017,Autumn,Nov 03,"USA, Nepal","Garrett Madison, Kristin Bennett, Lisa Thompson, Ang Phurba Sherpa, Lhakpa Dendi Sherpa, Pasang Dawa Sherpa, Tashi Sherpa",28.36,38.5324
+THUL,Thulagi,Nepal only,7059,23159,Manaslu/Mansiri,Manaslu-Ganesh,Climbed,1,0,0,0,2015,Autumn,Sep 26,Russia,"Alexander Gukov, Ivan Dozhdev, Ruslan Kirichenko, Valeri Shamalo",28.33,84.3036
+TILI,Tilicho,Nepal only,7134,23406,Annapurna,Annapurna-Damodar-Peri,Climbed,1,0,0,0,1978,Autumn,Oct 10,France,Emmanuel Schmutz,28.4048,83.4836
+TKRG,Takargo,Nepal only,6771,22215,Rolwaling,Khumbu-Rolwaling-Makalu,Climbed,1,0,0,0,2010,Spring,Mar 12,USA,"David Gottlieb, Joseph Puryear",27.5212,86.3036
+TLNG,Talung,Nepal & India,7349,24111,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1964,Spring,May 19,"W Germany, Nepal","Franz Lindner, Tenzing Nanda Sherpa",27.39,88.0748
+TUKU,Tukuche,Nepal only,6920,22703,Dhaulagiri,Dhaulagiri-Mukut,Climbed,1,0,0,0,1970,Spring,Apr 30,Japan,"Hirosuke Kikuchi, Eiho Otani, Takao Yonemoto",28.4424,83.3336
+TUTS,Tutse,Nepal only,6758,22172,Makalu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.4612,87.06
+YALU,Yalung Kang,Nepal only,8505,27904,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Climbed,1,0,0,0,1973,Spring,May 14,Japan,"Yutaka Ageta, Takao Matsuda",27.42,88.0824
+YALW,Yalung Kang West,Nepal only,8077,26499,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.42,88.0824
+YNGS,Yangra Kangri South,Nepal & China,6863,22516,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.2324,85.0712
