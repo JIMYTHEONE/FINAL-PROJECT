@@ -1,0 +1,35 @@
+peak_id,peak_name,host_contries,height_m,height_ft,location,region,climb_status,is_open,is_unlisted,is_trekking,trek_year,first_asc_yr,first_asc_season,first_asc_date,countries,first_summiters,Lat,Long
+AGLE,Agole East,Nepal only,6675,21900,Rolwaling,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.51,86.33
+ANID,Anidesh Chuli,Nepal only,6808,22336,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.42,88.0412
+APIW,Api West,Nepal only,7076,23215,Api/Byas Risi/Guras,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,30.0,80.5548
+CHAB,Chabuk,Nepal & China,6792,22283,Janak/Ohmi Kangri,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5248,87.5924
+CHMR,Chamar,Nepal only,7161,23494,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.3224,84.5624
+CHUM,Chumbu,Nepal only,6859,22503,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.0036,86.4648
+DROM,Drohmo,Nepal only,6881,22575,Jongsang,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Main summit unclimbed,27.4912,88.06
+FIRN,Firnkopf,Nepal only,6730,22080,Saipal,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.54,81.27
+GANW,Gangapurna West,Nepal only,7140,23425,Annapurna,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.3748,83.57
+HNKU,Hongku Chuli,Nepal only,6833,22418,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4836,87.0036
+HUGO,Hulang Go,Nepal & India,6687,21939,Peri,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.5212,84.2024
+JANE,Jannu East,Nepal only,7460,24475,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unknown,27.4048,88.0224
+JUNC,Junction Peak,Nepal only,7133,23402,Dhaulagiri,Dhaulagiri-Mukut,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,35.54,76.33
+KANN,Kangchenjunga North,Nepal & India,7938,26043,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.42,88.09
+KBNE,Kangbachen East,Nepal only,7780,25525,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4236,88.0636
+KGRI,Khangri Shar,Nepal only,6792,22283,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.0036,86.48
+KIMS,Kimshung,Nepal only,6781,22247,Langtang,Langtang-Jugal,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unknown,28.1612,85.33
+KJRN,Kanjiroba North,Nepal only,6858,22500,Kanjiroba,Far West-Kanjiroba,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.2212,82.3824
+LAMP,Lampo,Nepal & China,6648,21811,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,28.2924,85.09
+LAS2,Lashar II,Nepal & China,6803,22320,Janak/Ohmi Kangri,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5248,88.0336
+LNGK,Langchung Khang,Nepal & China,6786,22264,Jongsang,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.51,88.1048
+LUNR,Lunag Ri,Nepal & China,6895,22621,Rolwaling,Khumbu-Rolwaling-Makalu,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unknown,28.03,86.3336
+MACH,Machhapuchhare,Nepal only,6993,22943,Annapurna,Annapurna-Damodar-Peri,Unclimbed,0,1,0,0,0,All,Unknown,Unknown,Unclimbed,28.2924,83.5624
+NAG2,Nangpai Gosum II,Nepal & China,7287,23907,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.33,84.5624
+NGAP,Nepal Gap Peak,Nepal & India,7007,22989,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.4612,88.1012
+NGO3,Ngojumba Kang III,Nepal & China,7681,25200,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.06,86.4236
+PHOL,Phole,Nepal only,6645,21801,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4048,88.0036
+PHUK,Phu Kang,Nepal & China,6694,21962,Peri,Annapurna-Damodar-Peri,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,28.4724,84.2624
+PK04,Peak 4,Nepal only,6736,22100,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,29.54,81.27
+SHAR,Shartse,Nepal & China,7591,24905,Khumbu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.5636,86.5848
+SOBI,Sobithongie,Nepal only,6652,21824,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.4048,88.0112
+TUTS,Tutse,Nepal only,6758,22172,Makalu,Khumbu-Rolwaling-Makalu,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,27.4612,87.06
+YALW,Yalung Kang West,Nepal only,8077,26499,Kangchenjunga/Simhalila,Kangchenjunga-Janak,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed,27.42,88.0824
+YNGS,Yangra Kangri South,Nepal & China,6863,22516,Ganesh/Shringi,Manaslu-Ganesh,Unclimbed,1,0,0,0,0,All,Unknown,Unknown,Unclimbed?,28.2324,85.0712
