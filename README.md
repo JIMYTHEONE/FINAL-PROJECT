@@ -6,6 +6,9 @@
 
 2. Crear un modelo predictivo que mediante una serie de variables muestre las probabilidades que tiene el usuario de conseguir ascender el pico que desea. 
 
+
+
+
 #  PASOS SEGUIDOS 📋
 
 # 1) Extracción 
@@ -26,6 +29,10 @@ Las principales tablas sobre las que se han trabajado los datos son las siguient
 Una vez extraídos los datos y convertidos a los dataframes pertinentes, se ha procedido a su transformación y limpieza.
 
 La limpieza ha consisitido en cambiar los tipos de datos, crear nuevas columnas y alimentarlas con los datos extraidos, eliminar las columnas que no fueran de utilidad para el análisis, rellenar los valores nulos.
+
+
+
+
 
 
 # VISUALIZACIÓN ⇲
