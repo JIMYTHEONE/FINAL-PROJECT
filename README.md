@@ -2,7 +2,7 @@
 
 #  OBJETIVOS 🎯 
 
-1 .El objetivo es mostrar información relevante sobre las distintas expediciones que se han ido realizando desde 1910 hasta 2020 a través de visualizaciones gráficas.
+1. El objetivo es mostrar información relevante sobre las distintas expediciones que se han ido realizando desde 1910 hasta 2020 a través de visualizaciones gráficas.
 
 2. Crear un modelo predictivo que mediante una serie de variables muestre las probabilidades que tiene el usuario de conseguir ascender el pico que desea. 
 
