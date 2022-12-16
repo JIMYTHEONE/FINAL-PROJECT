@@ -1,6 +1,6 @@
 ## 🏔️Himalaya Analysis🏔️
 
-#  OBJETIVOS 🎯 
+#  Objetivos 🎯 
 
 1. El objetivo es mostrar información relevante sobre las distintas expediciones que se han ido realizando desde 1910 hasta 2020 a través de visualizaciones gráficas.
 
@@ -9,7 +9,7 @@
 
 
 
-#  PASOS SEGUIDOS 📋
+#  Pasos seguidos 📋
 
 # 1) Extracción 
 
@@ -35,7 +35,7 @@ La limpieza ha consisitido en cambiar los tipos de datos, crear nuevas columnas 
 
 
 
-# VISUALIZACIÓN ⇲
+# Visualización ⇲
 
 Se han generado las siguientes visualizaciones:
   
